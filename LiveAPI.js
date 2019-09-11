@@ -1,8 +1,8 @@
 
 // API Call
  $(document).ready(function () {
-  locationID = '8696490560696135898',
-  api_key = '92ca716c35bc76afb5684d5ab66fa95e',
+  locationID = 'loc_id',
+  api_key = 'api_key',
   vParam = '20180305',
   $.ajax({
     type: 'GET',
